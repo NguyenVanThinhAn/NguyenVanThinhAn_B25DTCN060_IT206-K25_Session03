@@ -1,0 +1,38 @@
+Prompt 1
+"Bạn là một trợ lý nghiên cứu học thuật. Hãy tóm tắt 4 lợi ích của việc đọc sách theo chủ đề Quản lý thời gian, giới hạn trong 5 dòng."
+
+Role: bạn là trợ lý nghiên cứu học thuật
+
+Task: tóm tắt 4 lợi ích của việc đọc sách chủ đề Quản lý thời gian
+
+Details: 4 lợi ích, giới hạn 5 dòng
+
+Audience: không nêu trực tiếp
+
+Format: tóm tắt ngắn gọn
+
+Prompt 2
+"Hãy liệt kê 5 ứng dụng AI miễn phí giúp cải thiện kỹ năng viết và sáng tạo nội dung. Trình bày dưới dạng bảng có 2 cột: Tên – Mục đích sử dụng."
+
+Role: không có
+
+Task: liệt kê 5 ứng dụng AI miễn phí
+
+Details: 5 app, miễn phí, hỗ trợ viết và sáng tạo
+
+Audience: không nêu
+
+Format: bảng 2 cột
+
+Prompt 3
+"Giải thích cách lên kế hoạch tuần hiệu quả cho sinh viên mới vào trường, dùng ví dụ cụ thể, trình bày bằng bullet point."
+
+Role: không có
+
+Task: giải thích cách lập kế hoạch tuần
+
+Details: có ví dụ cụ thể
+
+Audience: SV mới
+
+Format: bullet point
