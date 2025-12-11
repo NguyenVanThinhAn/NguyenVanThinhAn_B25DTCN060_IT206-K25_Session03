@@ -1,0 +1,13 @@
+Bước 1: Phân tích vì sao prompt Giải thích cái này giúp mình với chưa hiệu quả
+
+Prompt không nêu rõ nội dung cần giải thích là gì, nên AI không có ngữ cảnh để hiểu người dùng muốn nói đến khái niệm nào. Điều này khiến câu trả lời có thể sai lệch hoặc quá chung chung.
+
+Prompt không đặt mục tiêu rõ ràng như cần giải thích ngắn, giải thích sâu, hay có ví dụ minh họa. Vì thiếu định hướng nên AI khó chọn mức độ chi tiết phù hợp.
+
+Prompt không cung cấp bất kỳ thông tin nền tảng nào về người đọc (mới học, đã có kinh nghiệm, đang học lập trình hay môn khác). Điều này làm câu trả lời có thể quá phức tạp hoặc quá đơn giản.
+
+Prompt không yêu cầu định dạng trình bày (liệt kê, đoạn văn, ví dụ minh họa), nên kết quả có thể lộn xộn hoặc không hữu ích cho việc học.
+
+Bước 2: Prompt mới rõ ràng hơn (mục tiêu: giải thích)
+
+Bạn là một trợ giảng lập trình. Hãy giải thích khái niệm con trỏ trong ngôn ngữ C theo cách dễ hiểu cho người mới bắt đầu học lập trình. Trình bày rõ ràng, có cấu trúc và kèm theo một ví dụ minh họa để người đọc dễ hình dung cách con trỏ hoạt động.
