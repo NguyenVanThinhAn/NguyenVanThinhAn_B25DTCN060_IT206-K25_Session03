@@ -1,0 +1,81 @@
+Promt 1:
+
+Giả sử bạn là học sinh, hãy nêu cách học lập trình hiệu quả với 200 từ. Giải thích với người chưa biết gì về lập trình.
+
+TRL:
+
+Dưới đây là đoạn 200 từ, viết như một học sinh đang chia sẻ cho người **hoàn toàn chưa biết lập trình**:
+
+---
+
+Nếu mình là một học sinh mới bắt đầu học lập trình, cách hiệu quả nhất là đi từ những điều đơn giản nhất. Trước hết, mình sẽ hiểu lập trình là gì: đó chỉ là cách mình hướng dẫn máy tính làm việc bằng những câu lệnh rõ ràng. Không cần thông minh đặc biệt, chỉ cần kiên nhẫn và chịu thử sai. Mình chọn một ngôn ngữ dễ bắt đầu như Python hoặc C vì tài liệu nhiều và cộng đồng lớn. Mỗi ngày mình học một ít, bắt đầu từ các khái niệm như biến, kiểu dữ liệu, vòng lặp, điều kiện. Quan trọng là phải thực hành ngay: viết code ngắn, chạy thử, sửa lỗi. Khi gặp lỗi, mình không nản mà xem nó như một phần tự nhiên của lập trình.
+
+Mình cũng xem video, đọc tài liệu, nhưng không để chúng thay thế việc tự tay làm bài tập. Khi đã hiểu cơ bản, mình làm các project nhỏ như máy tính đơn giản, game mini hoặc chương trình xử lý chuỗi. Làm project giúp mình nhớ lâu và hiểu thật sự. Ngoài ra, mình hỏi bạn bè, tham gia nhóm học hoặc nhờ AI giải thích khái niệm khó, nhưng không để AI làm hộ toàn bộ. Cuối cùng, mình duy trì thói quen mỗi ngày để kiến thức tích lũy dần. Lập trình không khó nếu học đúng cách và kiên trì.
+
+
+_____________________________________________________________________________________________________________________________
+
+Promt 2:
+
+Giả sử bạn là giáo viên, hãy nêu cách học lập trình hiệu quả với 200 từ. Giải thích với người hiểu qua về lập trình, cụ thể là sinh viên năm nhất.
+
+TRL:
+
+Dưới đây là đoạn **200 từ**, viết như một **giáo viên hướng dẫn sinh viên năm nhất** đã có hiểu biết cơ bản về lập trình:
+
+---
+
+Là sinh viên năm nhất, các em đã biết khái niệm biến, vòng lặp, hàm, nên để học lập trình hiệu quả hơn, điều quan trọng nhất là xây dựng nền tảng tư duy vững chắc. Thay vì cố gắng học thật nhiều ngôn ngữ, các em nên chọn một ngôn ngữ chính và đào sâu cách nó hoạt động. Điều này giúp các em hiểu bản chất của thuật toán, cấu trúc dữ liệu và cách máy tính xử lý lệnh. Bên cạnh lý thuyết, các em phải ưu tiên thực hành đều đặn. Mỗi khi học một khái niệm mới, hãy viết mã minh họa, thử thay đổi tham số, quan sát kết quả. Việc tự mình debug sẽ giúp tư duy logic phát triển nhanh nhất.
+
+Sinh viên năm nhất cũng nên bắt đầu làm các bài tập nhỏ có tính ứng dụng, như mô phỏng hàng đợi, viết chương trình quản lý đơn giản hoặc xử lý file. Sau đó, hãy tiến dần lên project lớn hơn để rèn khả năng tổ chức mã và làm việc theo quy trình. Ngoài ra, hãy đọc code của người khác, đặt câu hỏi khi không hiểu, và tận dụng AI như một trợ lý giải thích – không phải là công cụ làm hộ. Cuối cùng, duy trì thói quen học mỗi ngày sẽ giúp các em tiến bộ ổn định.
+
+_____________________________________________________________________________________________________________________________
+
+Promt 3:
+
+Giả sử bạn là giáo sư, hãy nêu cách học lập trình hiệu quả với 200 từ. Giải thích với người chưa biết gì về lập trình.
+
+TRL:
+
+Dưới đây là đoạn **200 từ**, viết như một **giáo sư đang hướng dẫn người hoàn toàn chưa biết lập trình**:
+
+---
+
+Nếu bạn chưa từng học lập trình, điều quan trọng nhất là bắt đầu đúng cách. Lập trình thực chất không phải “ma thuật”, mà là quá trình diễn đạt suy nghĩ của bạn thành những bước rõ ràng để máy tính thực hiện. Vì vậy, nền tảng đầu tiên bạn cần xây dựng là **tư duy từng bước**. Tôi thường khuyên người mới bắt đầu bằng cách làm quen với những khái niệm cơ bản nhất như: biến (nơi lưu dữ liệu), câu lệnh điều kiện (nếu – thì), và vòng lặp (lặp lại một hành động). Những khái niệm này giống như học bảng chữ cái trước khi viết câu.
+
+Hãy chọn một ngôn ngữ dễ tiếp cận như Python để bắt đầu. Điều quan trọng không phải học nhanh, mà là học đều và thực hành liên tục. Mỗi bài học nên đi kèm một ví dụ thực tế nhỏ: tính toán đơn giản, xử lý chuỗi, hoặc một đoạn chương trình hỏi – đáp. Khi gặp lỗi, đừng lo lắng; sai sót chính là phần tự nhiên nhất trong lập trình và là cơ hội để hiểu sâu hơn.
+
+Cuối cùng, hãy duy trì thói quen thử nghiệm, đặt câu hỏi, và từng bước xây dựng sự tự tin. Khi bạn tư duy rõ ràng, lập trình sẽ trở nên dễ hiểu và thú vị.
+
+_____________________________________________________________________________________________________________________________
+
+NHẬN XÉT:
+
+Dưới đây là lần lượt điểm mạnh của từng Promt trên:
+
+Promt 1: Khá dễ hiểu vì Ai đóng vai trò là học sinh đang giảng lại cho chúng ta, ngôn ngữ dễ hiểu thân thiện nếu cũng là học sinh/sinh viên thì rất phù hợp
+
+Promt 2: Giải thích advance hơn, nhưng nếu đã đủ trình độ tối thiểu tức là sinh viên thì sẽ cực kì phù hợp vì nó đã lọc bỏ kiến thức dưới mức sinh viên năm nhất rồi.
+
+Promt 3: Toàn diện và phù hợp nhất với tất cả mọi người. Ai ở đây đang đóng vai trò là giáo sư, với kiến thức như trên thì giảng giải là vô cùng chi tiết và phù hợp
+
+Dưới đây là lần lượt điểm yếu của từng Promt trên:
+
+Promt 1 (Học sinh → giải thích cho người mới bắt đầu)
+Điểm yếu:
+Kiến thức còn mang tính “cảm tính”, không quá chính thống vì học sinh chưa có nền tảng lý thuyết sâu.
+Cách diễn đạt thiên về kinh nghiệm cá nhân, thiếu tính hệ thống và dễ thiếu sót những yếu tố quan trọng.
+Một số hướng dẫn chưa đủ chặt chẽ cho người hoàn toàn mới, vì học sinh không phải lúc nào cũng ý thức được những sai lầm phổ biến của người bắt đầu học lập trình.
+Dù thân thiện nhưng đôi khi hơi đơn giản, không phù hợp với người cần lộ trình rõ ràng hoặc có kỷ luật học tập cao.
+Promt 2 (Giáo viên → giải thích cho sinh viên năm nhất)
+Điểm yếu:
+Cách trình bày ở mức “giáo trình hóa”, có thể hơi khô hoặc khó tiếp cận với người mất gốc hoặc người chưa quen cách học đại học.
+Giả định rằng người học đã nắm chắc kiến thức cơ bản, nên không phù hợp với người không có nền tảng hoặc tiếp thu chậm.
+Tập trung vào quy trình và bài tập nên đôi khi thiếu ví dụ đời thường giúp dễ hình dung.
+Mang tính định hướng nhiều hơn, chưa quá sâu về bản chất như cách của giáo sư.
+Promt 3 (Giáo sư → giải thích cho người hoàn toàn chưa biết lập trình)
+Điểm yếu:
+Văn phong hơi hàn lâm, đôi khi có thể gây cảm giác “cao siêu” với người mới.
+Giảng giải bản chất rất kỹ nhưng có thể thiếu tính thực hành ngay, khiến người mới đôi khi chưa biết bắt đầu từ đâu.
+Tập trung mạnh vào tư duy nền tảng, nên những ai muốn làm nhanh, học nhanh, thực hành ngay có thể thấy chậm tiến độ.
+Do mang góc nhìn vĩ mô, đôi lúc thiếu hướng dẫn chi tiết từng bước nhỏ dành cho người mới 100%.
